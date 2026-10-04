@@ -1,0 +1,16 @@
+{
+  "name": "album-jj",
+  "version": "1.0.0",
+  "description": "Galería de fotos y videos de Jennifer & John",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^2.0.2",
+    "sharp": "^0.35.5",
+    "uuid": "^11.0.0"
+  }
+}
